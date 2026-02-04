@@ -21,10 +21,10 @@ This section includes Linux fundamentals and log analysis skills such as navigat
 ## [SOC Fundamentals](https://github.com/FatPoki/Soc-Memo/tree/main/Soc_basics)
 This section explains core SOC concepts like the CIA triad, incident response lifecycle, MITRE ATT&CK framework, malware types, and the difference between IDS, IPS, and EDR.
 
-## [SIEM + Email Security] (https://github.com/FatPoki/Soc-Memo/tree/main/Soc_basics)
+## [SIEM + Email Security](https://github.com/FatPoki/Soc-Memo/tree/main/Soc_basics)
 This section covers SIEM operations, log correlation, alert triage, and email security topics including phishing analysis, SPF/DKIM/DMARC, and email header investigation.
 
-## Cloud & Cloud Security
+## [Cloud & Cloud Security](https://github.com/FatPoki/Soc-Memo/tree/main/cloud)
 This section introduces cloud security concepts such as IAM, shared responsibility model, cloud logging, misconfiguration risks, and basic AWS and Azure security monitoring.
 
 ## Automation
